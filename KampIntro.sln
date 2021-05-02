@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{53A190B3-F7CB-4B3D-ACBB-BEE5A60D954D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{53A190B3-F7CB-4B3D-ACBB-BEE5A60D954D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{57E89B9F-54B4-4F98-ABF8-7318B1CA8386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{57E89B9F-54B4-4F98-ABF8-7318B1CA8386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E8578FDF-662B-4A81-85AB-1E649FD8AB7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E8578FDF-662B-4A81-85AB-1E649FD8AB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{E576391D-A4A3-4559-A32F-F0B9F01D977C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E8578FDF-662B-4A81-85AB-1E649FD8AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8578FDF-662B-4A81-85AB-1E649FD8AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8578FDF-662B-4A81-85AB-1E649FD8AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E576391D-A4A3-4559-A32F-F0B9F01D977C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E576391D-A4A3-4559-A32F-F0B9F01D977C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E576391D-A4A3-4559-A32F-F0B9F01D977C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E576391D-A4A3-4559-A32F-F0B9F01D977C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
